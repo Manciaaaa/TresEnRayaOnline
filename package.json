@@ -1,0 +1,9 @@
+{
+  "name": "tres-en-raya-online-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Servidor WebSocket para Tres en Raya online",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.18.0" }
+}
